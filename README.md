@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Assalamu Alaikum! I'm Muhammad
 
-<!--
-**muhdlast-dev/Muhdlast-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently learning **HTML, CSS, JavaScript**  
+💻 Building simple web apps and note apps using **localStorage**  
+📱 Using only my **Android phone** to code  
+📈 Aiming to become a **Data Analyst** in the future  
+🕌 I also value **spiritual growth and self-discipline**
 
-Here are some ideas to get you started:
+### 📌 Projects I'm working on:
+- Note App with save & delete
+- Responsive Hamburger Menu
+- Calculator Web App
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> 📫 You can reach me via email: muhammadlast1@gmail.com
